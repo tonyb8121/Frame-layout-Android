@@ -7,8 +7,11 @@ Frame Layout: The app uses a Frame Layout to stack the ImageView, TextView, and 
 Child Views:
 
 ImageView: Displays an image that fills the entire screen.
+
 TextView: Displays a welcome message centered on the screen.
+
 Button: Positioned at the bottom center of the screen, allowing user interaction.
+
 Layout Gravity: The layout_gravity attribute is used to position the TextView in the center and the Button at the bottom center of the Frame Layout.
 
 Dynamic Changes: The app demonstrates how to change the content of the ImageView and TextView dynamically when the button is clicked.
